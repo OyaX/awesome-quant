@@ -1,9 +1,14 @@
 # awesome-quant
 
 Nice Python Visuals Libraries 
-
 https://bokeh.org/
 https://altair-viz.github.io/
+https://docs.kanaries.net/pygwalker
+https://github.com/Kanaries/Rath
+https://kanaries.net/home
+
+OPtimization Library
+https://optuna.org/
 
 [Conformal regressors and predictive systems are machine learning techniques used to produce confidence intervals and cumulative distribution functions (CDFs) for regression models. These methods help assess the reliability of predictions and quantify the uncertainty associated with them.] (https://github.com/henrikbostrom/crepes)
 
